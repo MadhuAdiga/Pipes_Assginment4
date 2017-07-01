@@ -6,8 +6,8 @@ import { Component } from '@angular/core';
                     <table class="table table-bordered table-striped">
                       <thead>
                         <tr>
-                          <th>Name (Built-In pipe)</th>
-                          <th>Known for being (Built-In pipe)</th>
+                          <th>Name (Built-In pipe for Uppercase)</th>
+                          <th>Known for being (Built-In pipe for Lowercase)</th>
                           <th>Says what?(Custom Pipe for first letter capitalization)</th>
                         </tr>
                       </thead>
